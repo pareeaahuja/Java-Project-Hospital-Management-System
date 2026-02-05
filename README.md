@@ -99,7 +99,3 @@ Appointment scheduling module
 
 
 Author: Paree Rani
-
-Author
-
-Your Name
